@@ -1,6 +1,6 @@
 # qlchallenge
 
-I'm testing the mqtt comunication with an online public server "test.mosquitto.org".
+I'm testing the mqtt comunication with an online public server "test.mosquitto.org" to publish and to ping (get the stats).
 
 Building
 
