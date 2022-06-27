@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pub.dir/pub.cpp.o  -o pub  -lpaho-mqttpp3 -lpaho-mqtt3as 

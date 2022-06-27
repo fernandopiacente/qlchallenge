@@ -1,0 +1,3 @@
+/home/velhomago/qlchallenge/build/CMakeFiles/rebuild_cache.dir
+/home/velhomago/qlchallenge/build/CMakeFiles/edit_cache.dir
+/home/velhomago/qlchallenge/build/CMakeFiles/qlchallenge.dir

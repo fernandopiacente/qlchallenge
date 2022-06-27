@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/velhomago/qlchallenge/pub.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+thread
+-
+atomic
+-
+chrono
+-
+cstring
+-
+mqtt/async_client.h
+/home/velhomago/qlchallenge/mqtt/async_client.h
+
